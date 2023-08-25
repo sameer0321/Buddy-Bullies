@@ -1,0 +1,28 @@
+:root{
+
+    /* font families */
+    --ff-poppins:'Poppins', sans-serif;
+    --ff-montserrat:'Montserrat', sans-serif;
+
+    /* font sizes */
+    --xxxl-f:70px;
+    --xxl-f:50px;
+    --xl-f:30px;
+    --l-f:25px
+    --md-f:22px;
+    --s-f:20px;
+    --vs-f:18px;
+    --vvs-f:16px;
+
+    /* font weights */
+    --fw-700:700;
+    --fw-600:600;
+    --fw-500:500;
+    --fw-400:400;
+
+    /* colors */
+    --f-white:#FFFFFF;
+    --f-dgreen:#031227;
+    --f-dblue:#000A1A;
+    --f-blue:#001D49;
+}
