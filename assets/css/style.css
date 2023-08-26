@@ -669,7 +669,7 @@ color: var(--f-white);
     }
     .align-text-end{
         text-align: unset !important;
-    }
+    } 
 
 }
 @media(max-width:768px){
