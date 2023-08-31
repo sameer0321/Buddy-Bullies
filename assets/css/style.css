@@ -460,7 +460,12 @@
 .accordion-button::after {
     background-image: url('../images/down-arrow.png') !important;
 }
-
+.mt-47{
+    margin-top: 47px;
+}
+.mt-15{
+    margin-top: 15px;
+}
 .font20 {
     font-family: var(--ff-poppins);
     font-size: var(--xxl-f);
