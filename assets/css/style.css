@@ -324,6 +324,7 @@
     border: 3.23px solid #FFFFFF;
     background: linear-gradient(0deg, #009DFF, #009DFF),
         linear-gradient(0deg, #FFFFFF, #FFFFFF);
+        box-shadow: 0 0 0 11px #001931;
 }
 
 .left {
